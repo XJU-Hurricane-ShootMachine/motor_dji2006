@@ -1,6 +1,6 @@
 # 使用遥控器控制电机转到指定角度
 
-模板基于和R2中。主要使用和对串口消息进行处理.`Friction_band_launches``RemoteCtrl``remote-ctrl.c``msg-protocol.c`
+模板基于`Friction_band_launches`和R2中`RemoteCtrl`。主要使用`remote-ctrl.c`和`msg-protocol.c`对串口消息进行处理
 
 ### 功能
 
